@@ -1,2 +1,1 @@
-# baiktras1
-vantien
+# baikiemtraso1
